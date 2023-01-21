@@ -1,39 +1,3 @@
-<a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -60,9 +24,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [CodeRoamingInvestor] <a name="about-project"></a>
+# 📖 CodeRoamingInvestor <a name="about-project"></a>
 
-**[your_project__name]** is a blog that explores the intersection of programming, travel, and investing through the eyes of Abdelhadi. As a passionate coder and traveler, Abdelhadi will share his experiences and insights on how to balance the world of technology with the desire to see new places and cultures. He will also share his knowledge on how to invest in technology and use it as a tool for financial success and freedom. This blog is for anyone looking for inspiration to combine their love for technology and travel and make smart investments for a fulfilling life.
+**CodeRoamingInvestor** is a blog that explores the intersection of programming, travel, and investing through the eyes of Abdelhadi. As a passionate coder and traveler, Abdelhadi will share his experiences and insights on how to balance the world of technology with the desire to see new places and cultures. He will also share his knowledge on how to invest in technology and use it as a tool for financial success and freedom. This blog is for anyone looking for inspiration to combine their love for technology and travel and make smart investments for a fulfilling life.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -199,8 +163,9 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Add a blog]**
-- [ ] **[Delete a blog]**
+- [ ] **Publishing, editing, deleting a post**
+- [ ] **Can have multiple authors**
+- [ ] **People can comment and add likes to posts**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -240,6 +205,6 @@ I would like to thank all those whose code snippets were used in this project.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
